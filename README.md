@@ -1,4 +1,4 @@
 # Web-design-platform-based-on-low-code-visual-components
-**Aim:** This platform provides a visual environment and drag-and-drop components to enable citizen developers to design websites in a cost-effective way, which addresses the shortage of developers and allows users to customize websites according to their preferences.
+**Aim:** This project develops a low-code platform that enables website design with minimal coding, aiming to reduce costs, enhance efficiency, and accelerate time-to-market. It includes a comparative analysis of three commercial LCDPs and is built using Vue and Vite for flexibility and fast development, with Visual Studio Code as the primary development tool.
 
 **Author:** Ruitong(Aurora) Xiao
