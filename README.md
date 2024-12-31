@@ -1,4 +1,4 @@
-# 🌐 **Web-design-platform-based-on-low-code-visual-components** 🚀
+# 🌐 **Web-design-platform-based-on-low-code-visual-components** is designed for developers aiming to rapidly construct responsive landing pages and for projects that aim to decrease development workload and enhance efficiency. This platform enables non-technical staff to engage in the application development process, expanding the scope and creativity of the development team.
 
 ## **Key Features:**
 1. 🛠️ **Low-Code Development**: Offers a low-code platform that facilitates website design with minimal coding.
